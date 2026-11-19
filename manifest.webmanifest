@@ -1,0 +1,17 @@
+{
+  "name": "Vía Panamá",
+  "short_name": "Vía Panamá",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b2f",
+  "theme_color": "#101b2f",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
