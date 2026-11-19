@@ -14,3 +14,7 @@ PWA personal para estudiar conceptos de tránsito en Panamá.
 ## Publicación
 
 La rama `codex/mvp-initial` requiere revisión visual antes del merge. Tras aprobar y hacer merge, en Settings → Pages se selecciona GitHub Actions. En repositorios privados la disponibilidad de GitHub Pages depende del plan.
+
+## Revisión visual
+
+Publicación de prueba desde la rama `codex/mvp-initial`; PR #1 permanece sin merge.
